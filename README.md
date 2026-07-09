@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://hits.sh/github.com/Forrrrrrest/hits/"><img src="https://hits.sh/github.com/Forrrrrrest/hits.svg?style=plastic&label=creatures&color=d3d3d3"></a>
+  <a href="https://hits.sh/hits.sh/github.com/Forrrrrrest/hits/"><img alt="Hits" src="https://hits.sh/hits.sh/github.com/Forrrrrrest/hits.svg?style=plastic&label=creatures&extraCount=398&color=989898&logo=slug"/></a>
 </p>
 
 <p align="center">
